@@ -1,5 +1,5 @@
 ## Demo
-https://cross77.github.io/sprintBoard/.
+https://cross77.github.io/sprintBoard/dist/index.html 
 You must remember to save the wall after any changes.
 Changes are saved in localStorage.
 
